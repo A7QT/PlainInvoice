@@ -5,7 +5,7 @@
 - Save clients (no retyping)
 - Export PDFs instantly
 - Calculate taxes automatically
-- Support any currency
+- Supports over 160+ currencies
 - Runs entirely on your machine
 
-**No cloud. No accounts. No subscriptions. Just invoices.**
+**No cloud. No accounts. No subscriptions.**
